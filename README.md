@@ -2,5 +2,5 @@
 Expandable Belt Printer
 
 [BoM and BoP](https://docs.google.com/spreadsheets/d/1l4CQAsWA1VOHxtnCYEzdSOF4vzacqWnh0M9C7iE0zEw/edit?usp=sharing)
-![v73 Render](https://github.com/user-attachments/assets/53fc9fec-8f1a-494e-bb69-5da8e66e7ac5)
+![v73 Render](https://github.com/DoritoMojito/Ourus/blob/main/Graphics/v87%20Render.png)
 https://a360.co/3W3NiSQ
