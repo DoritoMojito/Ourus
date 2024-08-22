@@ -2,5 +2,5 @@
 <$600 (AUD) Belt Printer
 
 [BoM and BoP](https://docs.google.com/spreadsheets/d/1l4CQAsWA1VOHxtnCYEzdSOF4vzacqWnh0M9C7iE0zEw/edit?usp=sharing)
-![v73 Render](https://github.com/DoritoMojito/Ourus/blob/main/Graphics/v87%20Render.png)
+![Render](https://github.com/DoritoMojito/Ourus/blob/main/Graphics/v155.png)
 https://a360.co/3W3NiSQ
